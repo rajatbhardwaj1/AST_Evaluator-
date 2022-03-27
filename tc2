@@ -1,0 +1,26 @@
+program helloworld :: 
+var a,b,c : int ; 
+var m,n : bool ;
+var c1,c2 : int;
+{ 
+    write 1 + 3/5;
+    read a;
+    if (tt&&(ff||!(~1>2))) then 
+    {
+        write 1;
+    }
+    else
+    {
+        write 0;
+    } 
+    endif;
+    m := tt ; 
+    while (m  ) 
+    do 
+    {
+        read c;
+        write c1*c2%1;
+        m := ff;
+    } 
+    endwh;
+}
